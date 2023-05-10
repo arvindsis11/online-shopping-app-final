@@ -77,6 +77,7 @@ management.endpoint.health.show-details=always
 17. Username: admin  Password:admin
 18. Create a new Data Soure--> Give URL as localhost:9090
 19. Add New Dashboard -->Give query in metrics browser :process_start_time_seconds and press "Run Queries"
+--imp_if there is issue with graphana using machine ip address
 
 
 
